@@ -1,7 +1,7 @@
 #  Mensa Menü Äpp
 
-| <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/d2ece0123f637a80f13d299c518adbb7/604ce72c41210744e4cfcf4f4646dc7f.png"> | <a href="https://apps.apple.com/ch/app/mensa-men%C3%BC-uni-bern/id6443430143?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1665360000&h=87d711018a9b4c4324f6b4d0f036790f" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/d2ece0123f637a80f13d299c518adbb7/604ce72c41210744e4cfcf4f4646dc7f.png"> <a href="https://apps.apple.com/ch/app/mensa-men%C3%BC-uni-bern/id6443430143?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1665360000&h=87d711018a9b4c4324f6b4d0f036790f" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 ## Datenschutzbestimmungen
 
 **Zusammenfassung:**
