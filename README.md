@@ -5,7 +5,7 @@
 ## Datenschutzbestimmungen
 
 **Zusammenfassung:**
-Die Applikation "Mensa Menü App" sammelt keinerlei persönliche Daten. Beim Absturz der App werden anonymisierte Daten an den Entwickler übertaregn, sofern der Nutzer dies in den Systemeinstellungen erlaubt hat.
+Die Applikation "Mensa Menü App" sammelt keinerlei persönliche Daten. Beim Absturz der App werden anonymisierte Daten an den Entwickler übertragen, sofern der Nutzer dies in den Systemeinstellungen erlaubt hat.
 Alle Berechtigungen für Apple Health Daten dienen nur dazu, um Daten schreiben zu können. Es werden keinerlei Daten von Apple Health an diese App übermittelt.
 
 **Full**
